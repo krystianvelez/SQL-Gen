@@ -6,3 +6,4 @@ chromadb
 mysql-connector-python
 groq
 langchain-groq
+langchain-community
